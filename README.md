@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Gerson+Gonzalez;Apasionado+por+el+software+y+los+videojuegos;Construyendo+experiencias+únicas+con+código" alt="Typing SVG" />
-</p>
+<div align="center">
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=500&color=F7F7F7&center=true&width=600&lines=Hola%2C+soy+Gerson+Gonzalez;Apasionado+por+el+software+y+los+videojuegos;Creando+experiencias+interactivas+con+código)](https://git.io/typing-svg)
 
+</div>
 
 ###
 
