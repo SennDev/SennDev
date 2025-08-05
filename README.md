@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=29&duration=3000&pause=500&color=F7F7F7&center=true&width=435&lines=Hola+soy+Gerson+Gonzalez;Software+and+Game+Enthusiastic)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Gerson+Gonzalez;Apasionado+por+el+software+y+los+videojuegos;Construyendo+experiencias+únicas+con+código" alt="Typing SVG" />
+  </a>
+
+</div>
+
 
 ###
 
