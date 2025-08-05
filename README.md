@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Gerson Gonzalez and I'm from Mexico</h2>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=29&duration=3000&pause=500&color=F7F7F7&center=true&width=435&lines=Hola+soy+Gerson+Gonzalez;Software+and+Game+Enthusiastic)](https://git.io/typing-svg)
 
 ###
 
