@@ -67,9 +67,10 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SennxesDev/SennxesDev/output/snake.svg" alt="Snake animation" />
+-->
 
 ###
 
