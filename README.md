@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Actualmente estudiante Ingeniería en Tecnologías de la Información 🤖<br>Alumno por la Benemérita Universidad Autónoma de Puebla🎓<br><br>Programando por pasión y diversión 💻<br><br>Idiomas:<br>💬 Español (Nativo)<br>💬 Inglés (B2)<br>💬 Japones (Intermedio)<br>💬 Francés (Básico)</p>
+<p align="center">Actualmente estudiante Ingeniería en Tecnologías de la Información 🤖<br>Alumno por la Benemérita Universidad Autónoma de Puebla🎓<br><br>Programando por pasión y diversión 💻<br><br>Idiomas:<br>💬 Español (Nativo)<br>💬 English (B2)<br>💬 日本語 (Intermidiate)<br>💬 Français (Basique)</p>
 
 ###
 
