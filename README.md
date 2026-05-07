@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=700&color=C9D1D9&center=true&vCenter=true&width=850&lines=Hi+I'm+Gerson+Gonzalez;Backend+%7C+Frontend+%7C+GameDev)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SennDev&label=Profile%20Views&color=7f5af0&style=flat-square"/>
-
 </div>
 
 ---
@@ -20,9 +16,9 @@
 
 ## About Me
 
-Information Technology Engineering student at **BUAP** focused on software development, backend systems, embedded programming and interactive experiences.
+Information Technology Engineering student at **BUAP** focused on modern software development, backend systems, embedded programming and interactive experiences.
 
-### Currently Working With
+Currently working with:
 - Angular
 - Django & FastAPI
 - ESP32 & C/C++
@@ -36,23 +32,27 @@ Information Technology Engineering student at **BUAP** focused on software devel
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gerson-gonzalez-senn4520/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="42"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:GersonEM8900@outlook.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="42"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/gerson_4520m/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="42"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/gerson.gonzalez.171757/" target="_blank">
-  <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="42"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://x.com/senn4520" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="42"/>
 </a>
 
 </div>
@@ -63,7 +63,7 @@ Information Technology Engineering student at **BUAP** focused on software devel
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,sass,nodejs,django,fastapi,python,java,cs,cpp,mysql,git,unity,blender,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,nodejs,django,fastapi,python,java,cs,cpp,mysql,git,unity,blender,vscode,sass" />
 
 </div>
 
@@ -73,9 +73,9 @@ Information Technology Engineering student at **BUAP** focused on software devel
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SennDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SennDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SennDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SennDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -85,7 +85,7 @@ Information Technology Engineering student at **BUAP** focused on software devel
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SennDev&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=SennDev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
