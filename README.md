@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0d1117,100:7f5af0&text=Gerson%20Gonzalez&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Information%20Technology%20Engineering%20Student&descSize=18&descColor=d1d5db&descAlignY=64" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=700&color=C9D1D9&center=true&vCenter=true&width=850&lines=Software+Developer;Backend+%7C+Frontend+%7C+GameDev;Angular+%2B+Django+%2B+FastAPI;Unity+%2B+Embedded+Systems)](https://git.io/typing-svg)
 
