@@ -1,7 +1,6 @@
 <div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=700&color=C9D1D9&center=true&vCenter=true&width=850&lines=Software+Developer;Backend+%7C+Frontend+%7C+GameDev;Angular+%2B+Django+%2B+FastAPI;Unity+%2B+Embedded+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=700&color=C9D1D9&center=true&vCenter=true&width=850&lines=Hi+I'm+Gerson+Gonzalez;Backend+%7C+Frontend+%7C+GameDev)](https://git.io/typing-svg)
 
 <br>
 
