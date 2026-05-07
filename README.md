@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d1117,100:7f5af0&text=Gerson%20Gonzalez&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Technology%20Engineering%20Student&descSize=20&descColor=d1d5db&descAlignY=64" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=600&color=C9D1D9&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Gerson+Gonzalez;Desarrollador+apasionado+por+el+software+y+los+videojuegos;Creando+experiencias+interactivas+y+aprendiendo+nuevas+tecnologias;Backend%2C+GameDev+y+Sistemas+Embebidos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=600&color=C9D1D9&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Gerson+Gonzalez;Desarrollador+apasionado+por+el+software+y+los+videojuegos;Backend%2C+GameDev+y+Sistemas+Embebidos;Creando+experiencias+interactivas+y+aprendiendo+nuevas+tecnologias)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=SennxesDev&label=Profile%20Views&color=7f5af0&style=flat-square" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SennDev&label=Profile%20Views&color=7f5af0&style=flat-square"/>
 
 </div>
 
@@ -12,7 +14,7 @@
 
 <div align="center">
 
-<img height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg3cHp5N2trb2x1a2FvemhmZGdzYWd3aDFwMW5qcjdtN3JzZmcxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"/>
+<img height="230" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg3cHp5N2trb2x1a2FvemhmZGdzYWd3aDFwMW5qcjdtN3JzZmcxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"/>
 
 </div>
 
@@ -23,19 +25,19 @@
 Soy estudiante de **Ingeniería en Tecnologías de la Información** en la  
 **Benemérita Universidad Autónoma de Puebla (BUAP)**.
 
-Programo por pasión y diversión, buscando siempre un equilibrio entre el desarrollo de software moderno, los sistemas embebidos y las experiencias interactivas.
+Programo por pasión y diversión, buscando un equilibrio entre el desarrollo de software moderno, sistemas embebidos y experiencias interactivas.
 
 Actualmente enfocado en:
 - Desarrollo web moderno con Angular y tecnologías frontend/backend
-- Plataformas interactivas como *Nahuatl Vivo* y *ReservaLab*
-- Programación de hardware y sistemas embebidos con ESP32 y C/C++
 - APIs y backend con Django y FastAPI
+- Sistemas embebidos con ESP32 y C/C++
+- Plataformas interactivas como *Nahuatl Vivo* y *ReservaLab*
 - Desarrollo de videojuegos y experiencias 3D con Unity y Blender
 
-Intereses principales:
+Intereses:
 - Desarrollo de videojuegos
 - Robótica
-- Software architecture
+- Arquitectura de software
 - Tecnologías interactivas
 - Preservación cultural y lingüística mediante software
 
@@ -57,7 +59,7 @@ Idiomas:
 </a>
 &nbsp;&nbsp;
 
-<a href="mailto:gersonem8900@outlook.com" target="_blank">
+<a href="mailto:GersonEM8900@outlook.com" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45"/>
 </a>
 &nbsp;&nbsp;
@@ -72,8 +74,8 @@ Idiomas:
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.facebook.com/gerson.gonzalez.171757/" target="_blank">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="45"/>
+<a href="https://steamcommunity.com/id/Gerson4520/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/steam/default.svg" width="45"/>
 </a>
 
 </div>
@@ -148,9 +150,9 @@ Idiomas:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SennxesDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SennDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SennxesDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SennDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -160,7 +162,7 @@ Idiomas:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SennxesDev&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=SennDev&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
