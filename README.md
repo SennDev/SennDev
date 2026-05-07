@@ -105,7 +105,7 @@
 <h3 style="color: #c792ea;">🔥 GITHUB STREAK</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SennxesDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=c792ea&ring=c792ea&fire=c792ea&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SennDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=c792ea&ring=c792ea&fire=c792ea&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6" width="100%" />
 </div>
 
 <br><br>
