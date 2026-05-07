@@ -12,9 +12,6 @@
   </a>
 </p>
 
-<div align="center">
-   <img src="https://i.imgur.com/gK1wE4M.png" alt="Banner Profile" width="100%" style="border-radius: 10px;" />
-</div>
 
 <br>
 
