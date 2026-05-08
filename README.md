@@ -40,46 +40,46 @@ and embedded solutions.
 <br>
 
 <!-- 🔗 CONNECT WITH ME -->
-<h3 style="color: #c792ea; margin-top: 0;">🔗 CONNECT WITH ME</h3>
+<h3 align="center" style="color: #c792ea; margin-top: 0;">🔗 CONNECT WITH ME</h3>
 <div align="center" style="margin-top: 15px;">
-  <table border="0" style="border: none; background: transparent; text-align: center; margin: 0 auto;">
+  <table style="border: none; background: transparent; border-collapse: collapse; text-align: center; margin: 0 auto;">
     <tr style="border: none; background: transparent;">
       <td style="border: none; padding: 10px;">
         <a href="https://www.linkedin.com/in/gerson-gonzalez-senn4520/">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="42" height="42" alt="LinkedIn"><br><sub>LinkedIn</sub>
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" alt="LinkedIn"><br><sub>LinkedIn</sub>
         </a>
       </td>
       <td style="border: none; padding: 10px;">
-        <a href="mailto:GersonEM8900@gmail.com">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="42" height="42" alt="Gmail"><br><sub>Gmail</sub>
+        <a href="mailto:GersonEM8900@outlook.com">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Outlook.svg" width="50" height="50" alt="Outlook"><br><sub>Outlook</sub>
         </a>
       </td>
       <td style="border: none; padding: 10px;">
         <a href="https://www.instagram.com/gerson_4520m/">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="42" height="42" alt="Instagram"><br><sub>Instagram</sub>
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="50" height="50" alt="Instagram"><br><sub>Instagram</sub>
         </a>
       </td>
       <td style="border: none; padding: 10px;">
         <a href="https://www.facebook.com/gerson.gonzalez.171757/">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="42" height="42" alt="Facebook"><br><sub>Facebook</sub>
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="50" height="50" alt="Facebook"><br><sub>Facebook</sub>
         </a>
       </td>
       <td style="border: none; padding: 10px;">
         <a href="https://x.com/senn4520">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="42" height="42" alt="X/Twitter"><br><sub>X/Twitter</sub>
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="50" height="50" alt="X/Twitter"><br><sub>X/Twitter</sub>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
+
 <br>
 
 <!-- 💻 TECH STACK -->
-<h3 style="color: #c792ea;">&lt;/&gt; TECH STACK</h3>
-
+<h3 align="center" style="color: #c792ea;">&lt;/&gt; TECH STACK</h3>
 <div align="center">
-  <table border="0" style="border: none; background: transparent; text-align: center; margin: 0 auto;">
+  <table style="border: none; background: transparent; border-collapse: collapse; text-align: center; margin: 0 auto;">
     <tr style="border: none; background: transparent;">
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=angular" width="45"/><br><sub>Angular</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=react" width="45"/><br><sub>React</sub></td>
@@ -99,10 +99,9 @@ and embedded solutions.
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=java" width="45"/><br><sub>Java</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><sub>MySQL</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub>Git</sub></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><sub>VS Code</sub></td>
+      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><sub>VS</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=unity" width="45"/><br><sub>Unity</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=blender" width="45"/><br><sub>Blender</sub></td>
-      <td style="border: none; padding: 10px;"></td>
     </tr>
   </table>
 </div>
