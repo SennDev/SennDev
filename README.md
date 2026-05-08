@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=C792EA&center=true&vCenter=true&multiline=true&width=400&height=100&lines=%3E+Software+Developer;%3E+Backend+%7C+Frontend+%7C+GameDev;%3E+Angular+%2B+Django+%2B+FastAPI;%3E+Unity+%2B+Embedded+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=C792EA&center=true&vCenter=true&multiline=true&width=400&height=100&lines=%3E+Software+Developer;%3E+Backend+%7C+Frontend+%7C+GameDev" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,24 +36,25 @@
     </td>
 <td width="40%" valign="top" style="border: none; background: transparent;">
   <h3 style="color: #c792ea; margin-top: 0;">🔗 CONNECT WITH ME</h3>
-  <div style="margin-top: 15px;">
+  <div style="margin-top: 15px; display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/gerson-gonzalez-senn4520/">
       <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="42" height="42" alt="LinkedIn">
-    </a> &nbsp;
+    </a>
     <a href="mailto:GersonEM8900@gmail.com">
       <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="42" height="42" alt="Gmail">
-    </a> &nbsp;
+    </a>
     <a href="https://www.instagram.com/gerson_4520m/">
       <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="42" height="42" alt="Instagram">
-    </a> &nbsp;
+    </a>
     <a href="https://www.facebook.com/gerson.gonzalez.171757/">
       <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="42" height="42" alt="Facebook">
-    </a> &nbsp;
+    </a>
     <a href="https://x.com/senn4520">
       <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="42" height="42" alt="X/Twitter">
     </a>
   </div>
 </td>
+
 
   </tr>
 </table>
