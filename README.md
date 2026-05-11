@@ -99,9 +99,12 @@ and embedded solutions.
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=java" width="45"/><br><sub>Java</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><sub>MySQL</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub>Git</sub></td>
+      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=github" width="45"/><br><sub>GitHub</sub></td>
+      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br><sub>Docker</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><sub>VS</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=unity" width="45"/><br><sub>Unity</sub></td>
       <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=blender" width="45"/><br><sub>Blender</sub></td>
+      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=vercel" width="45"/><br><sub>Vercel</sub></td>
     </tr>
   </table>
 </div>
